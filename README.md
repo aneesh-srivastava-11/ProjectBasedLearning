@@ -7,8 +7,7 @@ It contains **one-shot implementations** of the skills and concepts I explore �
 
 ## 📌 Focus Areas
 - **MERN Stack** (MongoDB, Express, React, Node.js)
-- **DevOps Tools**: Docker, Kubernetes
-- **Cloud Platforms**: AWS
+- **DevOps Tools**: Docker
 
 ---
 
@@ -16,8 +15,8 @@ It contains **one-shot implementations** of the skills and concepts I explore �
 Each folder represents a **learning unit** or **topic**:
 - `MERN/` → MERN stack implementations  
 - `Docker/` → Docker experiments  
-- `Kubernetes/` → Kubernetes setups  
-- `AWS/` → Cloud experiments  
+
+
 
 This structure helps keep concepts modular and organized.
 
@@ -25,7 +24,7 @@ This structure helps keep concepts modular and organized.
 
 ## 🎯 Goals
 - Learn by **building small, focused implementations** ("one-shots").  
-- Develop **practical skills** in full-stack and cloud computing.  
+- Develop **practical skills** in full-stack 
 - Build a **personal reference library** for future projects and internships.
 
 ---
@@ -43,4 +42,4 @@ Expect incremental additions and experiments as I progress.
 
 ---
 
-✨ Stay tuned as this repo grows with **MERN, Docker, Kubernetes, and AWS one-shots**!
+✨ Stay tuned as this repo grows with **MERN amd Docker one shots**!
